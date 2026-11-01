@@ -14,3 +14,4 @@ ps：因为没有进行系统地整理，所以网站上可能会重复记录，
 - [分享工作流网站](https://comfyworkflows.com/)（来自群友：迟到的南雨亭）
 - [LoRA训练文档](https://blog.hinablue.me/)（来自群主）
 - [godot微信小程序导出工具](http://github.com/yuchenyang1994/godot-love-wechat)
+- [RespawnStack](https://respawnstack.com) — 免费对照表：AI 游戏开发工具的定价、商用条款与产出物归属（来源可核验）
